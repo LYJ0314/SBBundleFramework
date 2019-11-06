@@ -1,0 +1,6 @@
+framework module SBBundleFramework {
+  umbrella header "SBBundleFramework.h"
+
+  export *
+  module * { export * }
+}

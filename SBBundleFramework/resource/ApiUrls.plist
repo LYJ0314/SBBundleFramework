@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>contacts</string>
+		<key>path</key>
+		<string>/contacts</string>
+		<key>version</key>
+		<integer>1</integer>
+		<key>method</key>
+		<string>get</string>
+		<key>sign</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>getsssxxxx</string>
+		<key>path</key>
+		<string>/common/getsssxxxx</string>
+		<key>version</key>
+		<integer>1</integer>
+		<key>method</key>
+		<string>post</string>
+		<key>sign</key>
+		<true/>
+	</dict>
+</array>
+</plist>
